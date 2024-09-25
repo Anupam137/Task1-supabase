@@ -1,0 +1,5 @@
+pip install yt-dlp
+pip install ffmpeg-python
+pip install supabase
+pip install spacy
+python -m spacy download en_core_web_sm
