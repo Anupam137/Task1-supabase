@@ -18,5 +18,5 @@ Files:
 -Uses spaCy's NLP capabilities to improve the selection of important video clips.
 -Enhances the overall quality of selected clips by focusing on meaningful content.
 
-#Goal
+# Goal:
 The project aims to ensure that the clips generated are the most valuable and relevant, combining automated video downloading with natural language processing to optimize the output.
