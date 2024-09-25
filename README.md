@@ -1,9 +1,9 @@
 # Task1-supabase
-Project Overview
 This project focuses on automating the download of YouTube videos and improving the quality of the selected clips by identifying the most valuable segments.
 
 Files:
-##task1.py:
+
+## task1.py:
 
 -Automates the downloading of YouTube videos using yt_dlp.
 -Converts downloaded videos into audio formats for further processing.
